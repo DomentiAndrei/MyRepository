@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phone>
+	<model name="Samsung">
+		<mark> Egde 6 + </mark>
+		<year>2015</year>
+		<price>500$</price>
+		<ram>4GB</ram>
+	</model>
+	<model>
+		<mark> Egde 7 </mark>
+		<year>2014</year>
+		<price>500$</price>
+		<ram>3GB</ram>
+	</model>
+	<model name="Lenovo">
+		<mark> vibe S 1</mark>
+		<year>2013</year>
+		<price>340$</price>
+		<ram>2GB</ram>
+	</model>
+	<model>
+		<mark>vibe X 500</mark>
+		<year>2014</year>
+		<price>500$</price>
+		<ram>3GB</ram>
+	</model>
+	<model name="HTC">
+		<mark>Desire 500 </mark>
+		<year>2011</year>
+		<price>250$</price>
+		<ram>1.5GB</ram>
+	</model>
+	<model>
+		<mark>Desire 650 </mark>
+		<year>2011</year>
+		<price>500$</price>
+		<ram>1.5GB</ram>
+	</model>
+	
+	<apple name="Iphone">
+		<type>iphone 4</type>
+		<price>200$</price>
+		<release>2009</release>
+		<warranty>2 years</warranty>
+	</apple>
+	<apple>
+		<type>iphone 5</type>
+		<price>250$</price>
+		<release>2011</release>
+		<warranty>3 years</warranty>
+	</apple>
+	<apple>
+		<type>iphone 6</type>
+		<price>350$</price>
+		<release>2013</release>
+		<warranty>1 years</warranty>
+	</apple>
+
+</phone>
