@@ -1,0 +1,36 @@
+{
+	"FirstName": "Ivan",
+	"LastName": "Lambada",
+	"age": 40,
+	"address": {
+		"Country": "Spain",
+		"city": "Barcelona",
+		"Str": "Macarenco",
+		"Nr": "20",
+		"PostalCode": "231110"
+	},
+	"PhoneNumbers": [
+		"+23 321-123-43",
+		"+23 971-129-409"
+	],
+	"FirstNam": "Maria",
+	"LastNam": "Balim",
+	"ag": 40,
+	"addres": {
+		"Country": "Moldova",
+		"city": "Orhei",
+		"Str": "Petrarilor",
+		"Nr": "10",
+		"PostalCode": "122311",
+		"Weight": {
+			"Winter": "+20kg",
+			"Spring": "-10kg",
+			"Summer": "Default",
+			"Fall": "+5..."
+		}
+	},
+	"PhoneNumber": [
+		"+373 673 123",
+		"+373 971 129"
+	]
+}
