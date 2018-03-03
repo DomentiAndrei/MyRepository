@@ -1,0 +1,22 @@
+{
+	"Winter": [
+		"December",
+		"January",
+		"February"
+	],
+	"Spring": [
+		"March",
+		"April",
+		"May"
+	],
+	"Sammer": [
+		"June",
+		"July",
+		"August"
+	],
+	"Fall": [
+		"September",
+		"October",
+		"November"
+	]
+}
