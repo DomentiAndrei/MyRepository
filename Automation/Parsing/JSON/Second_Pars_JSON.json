@@ -1,0 +1,56 @@
+{
+	
+	"Country": {
+		"City": "Balti",
+		"Winter": {
+			"December": "-10 - 15 C",
+			"January": "-15 - 20 C",
+			"February": "-8 - 13 C"
+		},
+		"Spring": {
+			"March": "-2 - 0 C",
+			"April": "0 + 4 C",
+			"May": "4 + 8 C"
+		},
+		"Summer": {
+			"June": "+6 + 12 C",
+			"July": "+10 + 15 C",
+			"August": "+15 + 20 C"
+		},
+		"Fall": {
+			"September": "+9 + 12 C",
+			"October": "+4 + 7 C",
+			"November": "+ 0 - 7 C"
+		},
+		"Info": "AccuWeather",
+		"PhoneNumber": 231132
+
+},	
+
+	
+		"City": "Chisinau",
+		"Winter": {
+			"December": "-9 - 11 C",
+			"January": "-13 - 25 C",
+			"February": "-5 - 13 C"
+		},
+		"Spring": {
+			"March": "-2 - 1 C",
+			"April": "-1 + 3 C",
+			"May": "3 + 5 C"
+		},
+		"Summer": {
+			"June": "+5 + 11 C",
+			"July": "+11 + 12 C",
+			"August": "+16 + 21 C"
+		},
+		"Fall": {
+			"September": "+8 + 10 C",
+			"October": "+3 + 4 C",
+			"November": "+ 1 - 2 C"
+		},
+		"Info": "AccuWeather",
+		"PhoneNumber": 231132
+}
+
+
