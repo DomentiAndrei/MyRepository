@@ -43,22 +43,8 @@ public class Pars_Json_with_test1 {
 			Iterator<String> PL = Language.iterator();
 			while(PL.hasNext()) {
 				System.out.println(PL.next());
-			}
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
+			}	
+				
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
