@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<People>
+	<female ID="20">
+		<firstname>Maria</firstname>
+		<lastname>Rival</lastname>
+		<age>20</age>
+		<nr>#1132</nr>
+	</female>
+	<men ID="222">
+		<firstname>MAx</firstname>
+		<lastname>Caralov</lastname>
+		<age>30</age>
+		<nr>#1234</nr>
+	</men>
+	<boy ID="202" first="3.400 Kg">
+		<firstname>Ana</firstname>
+		<lastneme>Bilan</lastneme>
+		<nr>#90123</nr>
+	</boy>
+	<girl ID="2317" second="4 Kg">
+		<firstname>Linda</firstname>
+		<lastname>Burilova</lastname>
+		<nr>#5532</nr>
+	</girl>
+</People>
