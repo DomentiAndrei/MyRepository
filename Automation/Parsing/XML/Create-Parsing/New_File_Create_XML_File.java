@@ -86,7 +86,7 @@ public class New_File_Create_XML_File {
 			firstnameC.appendChild(doc.createTextNode("Ana"));
 			boy.appendChild(firstnameC);
 			
-			Element lastnameC = doc.createElement("lastneme");
+			Element lastnameC = doc.createElement("lastname");
 			lastnameC.appendChild(doc.createTextNode("Bilan"));
 			boy.appendChild(lastnameC);
 			
