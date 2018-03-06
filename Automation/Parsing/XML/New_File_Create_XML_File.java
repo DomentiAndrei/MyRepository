@@ -117,15 +117,6 @@ public class New_File_Create_XML_File {
 			nuNG.appendChild(doc.createTextNode("#5532"));
 			girl.appendChild(nuNG);
 			
-			
-			
-			
-			
-			
-			
-			
-			
-			
 			TransformerFactory transformerFactory = TransformerFactory.newInstance();
 			Transformer transformer = transformerFactory.newTransformer();
 			DOMSource source = new DOMSource(doc);
