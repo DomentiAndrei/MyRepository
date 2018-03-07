@@ -85,21 +85,6 @@ public class Pars_XML_with_file111 {
 					
 				}
 			}
-					
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
 			
 			
 		}catch(Exception e) {
