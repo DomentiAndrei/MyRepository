@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Movie>
+	<Comedy language="rus">
+		<name>иван васильевич меняет профессию</name>
+		<release>1973</release>
+		<duration>93 min</duration>
+		<producer>Леонид Гайдай</producer>
+		<country>СССР</country>
+	</Comedy>
+	<Comedy language="rus">
+		<name>Кавказская пленница, или Новые приключения Шурика</name>
+		<release>1967 </release>
+		<duration>88 min</duration>
+		<producer>Леонид Гайдай</producer>
+		<country>СССР</country>
+	</Comedy>
+	<horror nation="eng" parts="8">
+		<name>jigsaw</name>
+		<release>2004</release>
+		<duration>102 min</duration>
+		<producer nation="Малайзия">Джеймс Ван</producer>
+		<country>США</country>
+	</horror>
+</Movie>
