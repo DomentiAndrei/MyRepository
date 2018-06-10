@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Word>
+
+	<Moldova Moldoveni="10000" Population="20000">
+		<area>12345</area>
+		<road Chisinau="10">good</road>
+		<market>10 Makr</market>
+	</Moldova>
+	
+	
+	<asia Population="999999">
+	
+		<area>234213</area>
+		<road Russia="No bad">worst</road>
+		<market>15 Mark</market>
+	</asia>
+</Word>
